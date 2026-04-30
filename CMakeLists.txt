@@ -3,7 +3,7 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(untitled main.cpp
+add_executable(untitled
         "problem two.cpp"
         "problem three.cpp"
         "problem four.cpp"
